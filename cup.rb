@@ -14,7 +14,7 @@ end
 
 def sip(amount=10)
 
-   puts "Just took a sip"
+   puts "Just  took a sip"
    
    if amount < 0
       puts "Splash.  There's your backwash."
